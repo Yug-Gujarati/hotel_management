@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="143" height="34.036" viewBox="0 0 143 34.036">
+  <defs>
+    <linearGradient id="linear-gradient" x1="-0.021" y1="0.365" x2="0.964" y2="0.797" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#4960f9"/>
+      <stop offset="1" stop-color="#ff00f7"/>
+    </linearGradient>
+  </defs>
+  <g id="Group_3946" data-name="Group 3946" transform="translate(-345 957.795)">
+    <text id="Hotel_Management_System" data-name="Hotel Management System" transform="translate(376 -925.76)" fill="#c613f8" font-size="8" font-family="Montserrat-Medium, Montserrat" font-weight="500"><tspan x="0" y="0">Hotel Management System</tspan></text>
+    <path id="Union" d="M6.583,0,9.75,3.179V33.014q.578.137,1.167.216V7.1l3.167,2.566V33.23l.111-.015q.534-.077,1.056-.2V13.851l3.167,1.87V31.765a11.813,11.813,0,0,0,2.522-1.935,11.628,11.628,0,0,0,1.8-14.078,11.794,11.794,0,0,0-5.681-4.941l.258-.613a12.462,12.462,0,0,1,6,5.222,12.288,12.288,0,0,1-1.9,14.876,12.549,12.549,0,0,1-20.365-3.7A12.3,12.3,0,0,1,4.613,12.018l.423.516A11.658,11.658,0,0,0,6.583,31.765Z" transform="translate(345 -957.795)" fill-rule="evenodd" fill="url(#linear-gradient)"/>
+    <text id="IB_Hotel" data-name="IB Hotel" transform="translate(376 -937.76)" fill="#4960f9" font-size="14" font-family="Montserrat-ExtraBold, Montserrat" font-weight="800"><tspan x="0" y="0">IB Hotel</tspan></text>
+  </g>
+</svg>

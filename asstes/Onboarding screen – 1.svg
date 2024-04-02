@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="430" height="932" viewBox="0 0 430 932">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.344" y1="0.025" x2="0.628" y2="1.003" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#2f56f8"/>
+      <stop offset="1" stop-color="#c613f8"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="0.488" y1="-0.219" x2="0.55" y2="1.06" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#3af9ef"/>
+      <stop offset="1" stop-color="#c100ff"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-3" x1="0.486" y1="-0.186" x2="0.501" y2="1.169" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#5462f9"/>
+      <stop offset="1" stop-color="#3af9ef"/>
+    </linearGradient>
+    <clipPath id="clip-Onboarding_screen_1">
+      <rect width="430" height="932"/>
+    </clipPath>
+  </defs>
+  <g id="Onboarding_screen_1" data-name="Onboarding screen – 1" clip-path="url(#clip-Onboarding_screen_1)">
+    <rect width="430" height="932" fill="#fff"/>
+    <rect id="Rectangle_1511" data-name="Rectangle 1511" width="430" height="932" fill="#fff"/>
+    <g id="Component_1_7" data-name="Component 1 – 7" transform="translate(-910.78 177.428) rotate(-30)">
+      <ellipse id="Ellipse_256" data-name="Ellipse 256" cx="497.848" cy="455.348" rx="497.848" ry="455.348" transform="matrix(0.616, -0.788, 0.788, 0.616, 226.366, 967.164)" fill="url(#linear-gradient)"/>
+      <ellipse id="Ellipse_257" data-name="Ellipse 257" cx="462.961" cy="516.461" rx="462.961" ry="516.461" transform="translate(521.155 1413.032) rotate(-121)" fill="url(#linear-gradient-2)"/>
+      <ellipse id="Ellipse_258" data-name="Ellipse 258" cx="485.802" cy="485.801" rx="485.802" ry="485.801" transform="translate(786.044) rotate(54)" fill="url(#linear-gradient-3)"/>
+    </g>
+  </g>
+</svg>

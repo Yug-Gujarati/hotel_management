@@ -1,0 +1,8 @@
+{
+    "notebook.output.textLineLimit": 30,
+    "editor.minimap.maxColumn": 120,
+    "editor.rulers": [
+        1000 
+    ],
+    "dart.lineLength": 1000
+}
