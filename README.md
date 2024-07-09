@@ -1,17 +1,5 @@
-# hotel_management
+- IB Hotel is a hotel management application that helps owners manage staff, rooms, customers, and booking services.
+- The application shows data of revenue for week, month, and year using graph visualization to enhance user experience and help to track room availability, bookings, and staff.
 
-A new Flutter project.
+https://github.com/Yug-Gujarati/hotel_management/assets/89289757/dc3dddd6-f1b0-4ba8-9e89-355e9910d35e
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-"# hotel_management" 
